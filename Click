@@ -3,13 +3,20 @@
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <title>my!</title>
+  <title>m ass</title>
 </head>
 <body>
   <h1> Click on image for details  </h1>
-    <img src="html/pic.jpg" alt="pic"
+    <img src="html/iszy.jpg" alt="pic.https://github.com/iszyisrael13/Cliakable.git"
     width="400" height="300"
-      <a href="https:hello, world <img src pic.jpg"
-      </a>
+    </h1>
+  <a href="http://google.com
+    <img src=html/iszy.jpg" >
+      <a/>
+  <a href="http:github.com/iszyisrael13"><img 
+    src="html/iszy.jpg"
+  width="400" height="400"</a <p> jdjdjdjdj</p>>
+    <p> hdjdjdj</p>
+
 </body>
 </html>
