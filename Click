@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>my!</title>
+</head>
+<body>
+  <h1> Click on image for details  </h1>
+    <img src="html/pic.jpg" alt="pic"
+    width="400" height="300"
+      <a href="https:hello, world <img src pic.jpg"
+      </a>
+</body>
+</html>
